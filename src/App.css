@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.App h1{
+  color: blue;
+}
+.dd{
+  padding: 0 0 0 400px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
